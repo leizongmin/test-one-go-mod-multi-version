@@ -1,5 +1,5 @@
 package common
 
 func Version() string {
-	return "1"
+	return "2"
 }
